@@ -6,10 +6,13 @@ I decided to convert the given list into a set. If the number of elements remain
 
 # Perfomance
 
+- Complexity: O(n)
+
 - Runtime: 423ms (beats 98.50% of python users)
 <img src="./img/runtime.png">
 
 - Memory usage: 32.81 MB 
+
 
 # Code
 ```
