@@ -6,7 +6,7 @@ I decided to build a map to store the number of times a letter appear, it increm
 
 # Perfomance
 
-- Complexity: O(n)
+- Complexity: O(c), c being the number of unique characters in the strings
 
 - Runtime: 50ms (beats 69.75% of python users)
 <img src="./img/runtime.png">
