@@ -10,7 +10,7 @@ I decided to check every combination of numbers in the list and check if their s
 - Memory usage: 17.27 MB (Beats 87.22% of users with Python3)
 
 # Code
-```
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for index1, num in enumerate(nums):
