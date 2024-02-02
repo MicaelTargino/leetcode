@@ -15,7 +15,7 @@ I decided to build a map to store the number of times a letter appear, it increm
 
 
 # Code
-```
+```python
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
