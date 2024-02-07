@@ -15,7 +15,7 @@ I decided to convert the given list into a set. If the number of elements remain
 
 
 # Code
-```sql
+```python
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         set_of_nums = set(nums)
