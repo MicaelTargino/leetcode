@@ -1,3 +1,13 @@
+# approach
+    I decided to create an empty control array and start iterating over the strs array. For each string, check if there's a inner-array in the control array that contains one anagram of this string, append it to the inner-array, if not, append it in a new inner-array in the control array. Return the control array.
+
+# Perfomance
+
+- Time Complexity: O(m^2 x n) 
+- Space Complexity: O(m x n)
+
+# Code
+```python
 def isAnagram(str1: str, str2: str) -> bool: 
     if len(str1) != len(str2): return False
 
@@ -26,5 +36,4 @@ class Solution:
                 control_arr.append([i])
 
         return control_arr
-
-            
+```
