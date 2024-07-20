@@ -9,6 +9,7 @@ Here I will store my solutions to the leetcode problems, document my progress an
     - [x]  Two Pointer Algorithm (e.g., finding pairs with a given sum)
     - [x]  Searching (Binary Search)
     - [ ]  Sorting
+        - [x] Insertion Sort
         - [ ] Bubble Sort
         - [ ] Merge Sort
         - [ ] Quick Sort
