@@ -6,13 +6,16 @@ Here I will store my solutions to the leetcode problems, document my progress an
 ## Roadmap
 
 - [ ]  **Array**
-    - [ ]  Two Pointer Algorithm (e.g., finding pairs with a given sum)
-    - [ ]  Sorting (e.g., Bubble Sort, Merge Sort, Quick Sort)
-    - [ ]  Searching (e.g., Binary Search)
+    - [x]  Two Pointer Algorithm (e.g., finding pairs with a given sum)
+    - [x]  Searching (Binary Search)
+    - [ ]  Sorting
+        - [ ] Bubble Sort
+        - [ ] Merge Sort
+        - [ ] Quick Sort
     - [ ]  Sliding Window (e.g., finding the maximum sum subarray of a given size)
     - [ ]  Dynamic Programming (e.g., Kadane’s Algorithm for Maximum Subarray Sum)
 - [ ]  **Linked List**
-    - [ ]  implement in C++
+    - [ ]  implement in C++ with the operations
     - [ ]  Reverse a Linked List
     - [ ]  Detect Cycle in a Linked List (Floyd’s Cycle Detection Algorithm)
     - [ ]  Merge Two Sorted Linked Lists
