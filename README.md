@@ -10,13 +10,13 @@ Here I will store my solutions to the leetcode problems, document my progress an
     - [x]  Searching (Binary Search)
     - [ ]  Sorting
         - [x] Insertion Sort
-        - [ ] Bubble Sort
-        - [ ] Merge Sort
+        - [x] Merge Sort
         - [ ] Quick Sort
     - [ ]  Sliding Window (e.g., finding the maximum sum subarray of a given size)
     - [ ]  Dynamic Programming (e.g., Kadane’s Algorithm for Maximum Subarray Sum)
 - [ ]  **Linked List**
     - [ ]  implement in C++ with the operations
+    - [ ]  sort a linked list (Merge Sort)
     - [ ]  Reverse a Linked List
     - [ ]  Detect Cycle in a Linked List (Floyd’s Cycle Detection Algorithm)
     - [ ]  Merge Two Sorted Linked Lists
